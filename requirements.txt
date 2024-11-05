@@ -1,0 +1,14 @@
+airflow-provider-mlflow
+matplotlib
+minio
+scikit-learn
+mlflow-skinny
+pandas
+seaborn
+imblearn
+s3fs
+evidently
+apache-airflow-providers-common-sql==1.10.0
+# --extra-index-url https://download.pytorch.org/whl/cpu
+transformers==4.37.1
+torch==2.2.0
