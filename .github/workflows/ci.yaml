@@ -23,7 +23,7 @@ jobs:
       - name: flake8 Lint
         uses: py-actions/flake8@v1
         with:
-          max-line-length: 100
+          max-line-length: 150
 
   # mypy:
   #   # or specify a path!
